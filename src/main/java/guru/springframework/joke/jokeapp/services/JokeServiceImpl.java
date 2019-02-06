@@ -13,7 +13,7 @@ public class JokeServiceImpl implements JokeService{
     }
 
 
-// TU BYL ZEWNETRZNY JAR
+// BEZ SPRING CONFUGURATION
 //    public JokeServiceImpl() {
 //        this.chuckNorrisQuotes = new ChuckNorrisQuotes();
 //    }
